@@ -381,8 +381,11 @@ a {
     align-items: center;
 }
 
+
+
+
 .receipt.active .receipt__window {
-    width: 45%;
+    width: 100%;
     min-height: 50%;
     background: #fff;
     border-radius: 6px;

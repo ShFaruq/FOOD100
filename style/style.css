@@ -489,7 +489,7 @@ a {
 @media (max-width: 1400px) {
     .main {
         width: 95%;
-        align-items: center;
+   justify-content: center;
     }
 }
 
